@@ -19,6 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="browse_header">Headers</string>
     <string name="custom_header_image_notice">Header image set</string>
     <string name="header_pack_label1">Milan</string>
+    <string name="header_pack_label2">StayDirty</string>
     <string name="header_wavvy">Wavvy</string>
     <string name="header_naturerandom">Nature (random)</string>
     <string name="header_poly">Poly</string>
