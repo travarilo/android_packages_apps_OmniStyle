@@ -12,7 +12,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <daylight_headers>
-    <change_interval minutes="15" />
+    <change_interval minutes="60" />
     <list_header image="milan1" />
     <list_header image="milan2" />
     <list_header image="milan3" />
