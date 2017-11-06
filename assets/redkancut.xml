@@ -19,17 +19,11 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <meta_data creator="JBCDroid" />
-	<random_header image="and" />
-    <random_header image="bj" />
-    <random_header image="jb" />
-	<random_header image="jm" />
-	<random_header image="j09" />
-	<random_header image="m96" />
-	<random_header image="rk" />
-	<random_header image="kancut" />
-    <random_header image="viper1" />
-    <random_header image="viper2" />
-    <random_header image="viper3" />
-    <random_header image="viper4" />
+    <random_header image="redkancut1" />
+    <random_header image="redkancut2" />
+    <random_header image="redkancut3" />
+    <random_header image="redkancut4" />
+    <random_header image="redkancut5" />
+    <random_header image="redkancut6" />
+    <random_header image="redkancut7" />
 </daylight_headers>
